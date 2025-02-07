@@ -108,34 +108,36 @@
 
         </section>
 
-        <section id="alinhamento3">
+        
             <div id="servico-title">
 
-                <h2 id="titulo2">Lorem, ipsum dolor.</h2><img
-                    src="http://localhost/liliane/public/assets/img/sec-shape-1.png" alt="">
+                <h2 id="titulo2">Lorem, ipsum dolor.</h2><img id="img1" src="http://localhost/liliane/public/assets/img/sec-shape-1.png" alt="">
             </div>
 
-            <div class="aprender-container">
-                <div class="aprender-img"><img src="http://localhost/liliane/public/assets/img/girassol.svg" alt="">
+            <section id="alinhamento3">
 
-                    <div id="alinhamento1">
-                        <div id="div1">
-                            <h1>lorem</h1>
-                            <p id="paragrafo2">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e
-                                lorem.</p>
-                        </div>
-                        <div id="div1">
-                            <h1>lorem</h1>
-                            <p id="paragrafo2">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e
-                                lorem.</p>
-                        </div>
-                        <div id="div1">
-                            <h1>lorem</h1>
-                            <p id="paragrafo2">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e
-                                lorem.</p>
-                        </div>
-                    </div>
+            <!-- <div>
+                <img src="http://localhost/liliane/public/assets/img/girassol.svg" alt="">
+            </div> -->
+
+            <div id="alinhamento1">
+                <div id="div1">
+                    <h1>lorem</h1>
+                    <p id="paragrafo2">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e
+                        lorem.</p>
                 </div>
+                <div id="div1">
+                    <h1>lorem</h1>
+                    <p id="paragrafo2">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e
+                        lorem.</p>
+                </div>
+                <div id="div1">
+                    <h1>lorem</h1>
+                    <p id="paragrafo2">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e
+                        lorem.</p>
+                </div>
+            </div>
+            </section>
         </section>
 
 
