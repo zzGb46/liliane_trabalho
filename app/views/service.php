@@ -108,36 +108,39 @@
 
         </section>
 
+        <section id="alinhamento3">
+            <div id="servico-title">
+
+                <h2 id="titulo2">Lorem, ipsum dolor.</h2><img
+                    src="http://localhost/liliane/public/assets/img/sec-shape-1.png" alt="">
+            </div>
+
+            <div class="aprender-container">
+                <div class="aprender-img"><img src="http://localhost/liliane/public/assets/img/girassol.svg" alt="">
+
+                    <div id="alinhamento1">
+                        <div id="div1">
+                            <h1>lorem</h1>
+                            <p id="paragrafo2">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e
+                                lorem.</p>
+                        </div>
+                        <div id="div1">
+                            <h1>lorem</h1>
+                            <p id="paragrafo2">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e
+                                lorem.</p>
+                        </div>
+                        <div id="div1">
+                            <h1>lorem</h1>
+                            <p id="paragrafo2">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e
+                                lorem.</p>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
 
         <section id="servico-aprender">
-            <div class="container">
-                <div class="servico-title">
-                    <h2>Lorem, ipsum dolor.</h2><img src="http://localhost/liliane/public/assets/img/sec-shape-1.png"
-                        alt="">
-                </div>
-                <div class="aprender-container">
-                    <div class="aprender-img"><img src="http://localhost/liliane/public/assets/img/girassol.svg" alt="">
-                    </div>
 
-                    <article>
-                        <div id="descricao_alinha">
-                            <div>
-                                <h1>Lorem</h1>
-                                <p id="texto_alinha">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e lorem.</p>
-                            </div>
-                            <div>
-                                <h1>Lorem</h1>
-                                <p id="texto_alinha">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e lorem.</p>
-                            </div>
-                            <div>
-                                <h1>Lorem</h1>
-                                <p id="texto_alinha">llorem lorem lorem lorem, lorem e lorem.lorem lorem lorem lorem, lorem e lorem.</p>
-                            </div>
-                        </div>
-                    </article>
-
-                </div>
-            </div>
         </section>
 
 

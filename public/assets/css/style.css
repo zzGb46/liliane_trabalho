@@ -1214,19 +1214,12 @@ html {
             
 
             #sobre_alinha{
-                display: flex;
-               
-                align-content: center;
-                
+             display: flex;
+
             }
 
-            #descricao_alinha{
-                display: flex;
-            }
-
-            #texto_alinha{
-                
-            }
+        
+            
             
             #font_size{
                 font-size: 40px;
@@ -1238,11 +1231,16 @@ html {
             #font_size2{
                 font-size:70px ;
                 margin: -50px;
+             
             }
 
             #foto2{
               width: 500px;
               margin-top: -40px;
+            }
+
+            #alinhamento1{
+                display: flex;
             }
 
           
@@ -1429,56 +1427,7 @@ html {
 
 
 
-        #servico-aprender {
-            width: 100%;
-            height: 100dvh;
-
-            .container {
-                display: flex;
-                align-items: center;
-                justify-content: space-evenly;
-                flex-direction: column;
-
-                .servico-title {
-                    width: 100%;
-                    height: 20%;
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;
-                    flex-direction: column;
-
-                }
-
-
-                .aprender-container {
-                    width: 80%;
-                    height: 80%;
-                    display: flex;
-                    align-items: center;
-                    justify-content: space-evenly;
-
-
-                    .aprender-img {
-                        width: 50%;
-                        height: 100%;
-                        display: flex;
-                        align-items: center;
-                        justify-content: center;
-                        flex-direction: column;
-
-                        img {
-                            width: 80%;
-                            height: 80%;
-                        }
-                    }
-
-
-                    
-
-                }
-
-            }
-        }
+    
 
 
         #servico-produto {
@@ -1733,6 +1682,9 @@ html {
             text-align: center;
             margin-right: 100px;
         }
+        #titulo2{
+            
+        }
 
         #paragrafo1 {
             text-align: center;
@@ -1741,6 +1693,41 @@ html {
             margin-right: 100px;
 
         }
+
+        #paragrafo2{
+            width: 150px;
+        }
+
+        #alinhamento1{
+            display: flex;
+            justify-content: space-evenly;
+            margin-top: -100px;
+        }
+
+        #alinhamento2{
+            display: flex;
+            justify-content: space-between;
+        }
+
+        #alinhamento3{
+            display: flex;
+            align-items: center;
+        }
+
+     
+
+        #servico-title{
+            display: flex;
+            flex-direction: column;
+            width: 200px;
+            justify-content: center;
+            align-items: center;
+           
+        }
+
+
+
+        
 
         #sobre-banner {
             width: 100%;
